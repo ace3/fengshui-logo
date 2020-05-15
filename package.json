@@ -1,0 +1,15 @@
+{
+  "name": "fengshui-logo",
+  "version": "1.0.0",
+  "description": "fengshui for logo and brand ( In Indonesia )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fenshui",
+    "logo"
+  ],
+  "author": "ignasius wahyudi",
+  "license": "ISC"
+}

@@ -2,11 +2,11 @@
 
 Fengshui for Logo is a calculator to get the meaning from the name.
 
-#Install
+# Install
 
 `npm i fengshu-logo --save`
 
-#Usage
+# Usage
 ```
 const calculateFengshui = require('fengshui-logo');
 const nameToCalculate = 'fengshui';
@@ -15,7 +15,7 @@ let result = calculateFengshui(nameToCalculate);
 result = result[0] || null;
 ```
 
-#Result
+# Result
 ```
 {
    "NO":44,
@@ -25,5 +25,5 @@ result = result[0] || null;
 }
 ```
 
-#Purchase the Book
+# Purchase the Book
 You can purchase the book [here](https://ebooks.gramedia.com/books/feng-shui-untuk-logo)
